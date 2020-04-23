@@ -1,0 +1,15 @@
+LYRIC_PATH: './lyrics'
+MODELS_PATH: './models'
+ADDITIONAL_STOPWORDS:
+  - null
+REMOVED_STOPWORDS:
+  - null
+SONG_EMBEDDING_PATH: './embeddings'
+TOKEN_FILENAME: 'lyric_token_list'
+LYRIC_EMBEDDING_FILENAME: 'lyric_embeddings'
+CATEGORY_EMBEDDING_FILENAME: 'category_embeddings'
+SAVE_FILETYPE: 'pickle'
+DATA_DIR: './data'
+IMAGE_CLASS_FILENAME: image_classes
+CATEGORY_TOKEN_FILENAME: 'category_tokens'
+FULL_LYRIC_FILENAME: 'lyrics_with_categories'
